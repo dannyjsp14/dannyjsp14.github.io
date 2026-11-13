@@ -32,10 +32,10 @@ noise in the histogram. The models interpolate well but cannot extrapolate to
 diameters outside the sampled range.
 
 ### Notebooks
-- [1. ML analysis of the cavity-size distribution](notebooks/PIM1_ML_Analysis_V5.ipynb)
+- [1. ML analysis of the cavity-size distribution](PIM1_ML_Analysis_V5.ipynb)
 
 ### Results
-![Fitted curves, parity plot and residuals](figures/fitted_curves.png)
+![Fitted curves, parity plot and residuals](fitted_curves.png)
 
 ---
 
