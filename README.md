@@ -1,6 +1,3 @@
-# dannyjsp14.github.io
-Data Science Projects
-
 # Danny Sepulveda — Data Science Projects
 Chemical Engineering, University of Florida
 
